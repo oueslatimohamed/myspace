@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">My Space</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="choose">Choisir une réponse</string>
+    <string name="toutfait">Toute à fait ! </string>
+    <string name="faux">C est faux</string>
+    <string name="btnSuivant">Suivant</string>
+    <string name="connecttoyouraccount">Connectez à votre compte</string>
+    <string name="nomuser">Nom d utilisateur</string>
+    <string name="motpasse">Mot de passe</string>
+    <string name="noaccount">"Vous n'avez pas de compte ?"</string>
+    <string name="subscribe">"S'inscrire"</string>
+    <string name="help">Aide</string>
+    <string name="createacc">Créer un compte</string>
+    <string name="name">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="nom_prenom">Nom &amp;  Prenom</string>
+    <string name="age" translatable="false">Age</string>
+    <string name="score" translatable="false">Score</string>
+    <string name="niveau">Niveau de difficulté</string>
+    <string name="q1">quelle est la forme de la terre?</string>
+    <string name="q2">quel est le centre du système solaire?</string>
+    <string name="q3">Laquelle d\'entre elles n\'est pas une planète géante?</string>
+    <string name="q4">quel âge a le système solaire?</string>
+    <string name="q5">Quelle est la nature du soleil?</string>
+    <string name="q6">La planète Mars se situe entre?</string>
+    <string name="q7">À quelle galaxie appartient notre système solaire?</string>
+    <string name="q8">Quelles sont les deux principales compositions chimiques du soleil?</string>
+    <string name="q9">Quelle est la plus petite planète de notre système solaire?</string>
+    <string name="q10">À quelle distance la terre est-elle du soleil?</string>
+    <string name="a1">sphère</string>
+    <string name="a2">Le soleil</string>
+    <string name="a3">Terre</string>
+    <string name="a4">4,571 milliards d\'années</string>
+    <string name="a5">étoile</string>
+    <string name="a6">Jupiter et la terre</string>
+    <string name="a7">"Voie lactée"</string>
+    <string name="a8">"l'hydrogène et l'hélium"</string>
+    <string name="a9">"Mercure"</string>
+    <string name="a10">"93 millions de miles"</string>
+    <string name="op1">"disque"</string>
+    <string name="op2">"sphère"</string>
+    <string name="op3">"rectangle"</string>
+    <string name="op4">"chaîne"</string>
+    //2
+    <string name="op5">"La terre"</string>
+    <string name="op6">"Jésus"</string>
+    <string name="op7">"Le soleil"</string>
+    <string name="op8">"La lune"</string>
+    //3
+    <string name="op9">"Jupiter"</string>
+    <string name="op10">"Saturne"</string>
+    <string name="op11">"Terre"</string>
+    <string name="op12">"Neptune"</string>
+    <string name="op13">"1442 ans"</string>
+    <string name="op14">"2021 ans"</string>
+    <string name="op15">"13,77 milliards d'années"</string>
+    <string name="op16">"4,571 milliards d'années"</string>
+    <string name="op17">"planète"</string>
+    <string name="op18">" comète"</string>
+    <string name="op19">"étoile"</string>
+    <string name="op20">" lune"</string>
+    <string name="op21">"Soleil et Mercure"</string>
+    <string name="op22">"Jupiter et la Terre"</string>
+    <string name="op23">"Uranus et Neptune"</string>
+    <string name="op24">"Aucun"</string>
+    <string name="op25">"Galaxie d'Andromède"</string>
+    <string name="op26">"Voie lactée"</string>
+    <string name="op27">"Galaxie-comète"</string>
+    <string name="op28">"NGC 4567/8"</string>
+    <string name="op29">"l'hydrogène et l'hélium"</string>
+    <string name="op30">"l'oxygène et le carbone"</string>
+    <string name="op31">" l'hélium et l'azote"</string>
+    <string name="op32">"l'oxygène et l'hydrogène"</string>
+    <string name="op33">"La Terre"</string>
+    <string name="op34">"Mars"</string>
+    <string name="op35">"Mercure"</string>
+    <string name="op36">"Vénus"</string>
+    <string name="op37">"93 millions de miles"</string>
+    <string name="op38">"180 millions de miles"</string>
+    <string name="op39">"10 millions de miles"</string>
+    <string name="op40">"63 millions de miles"</string>
+
+
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options">
+        <item>@string/op1 </item>
+        <item>@string/op2</item>
+        <item>@string/op3</item>
+        <item>@string/op4</item>
+        <item>@string/op5</item>
+        <item>@string/op6</item>
+        <item>@string/op7</item>
+        <item>@string/op8</item>
+        <item>@string/op9</item>
+        <item>@string/op10</item>
+        <item>@string/op11</item>
+        <item>@string/op12</item>
+        <item>@string/op13</item>
+        <item>@string/op14</item>
+        <item>@string/op15</item>
+        <item>@string/op16</item>
+        <item>@string/op17</item>
+        <item>@string/op18</item>
+        <item>@string/op19</item>
+        <item>@string/op20</item>
+        <item>@string/op21</item>
+        <item>@string/op22</item>
+        <item>@string/op23</item>
+        <item>@string/op24</item>
+        <item>@string/op25</item>
+        <item>@string/op26</item>
+        <item>@string/op27</item>
+        <item>@string/op28</item>
+        <item>@string/op29</item>
+        <item>@string/op30</item>
+        <item>@string/op31</item>
+        <item>@string/op32</item>
+        <item>@string/op33</item>
+        <item>@string/op34</item>
+        <item>@string/op35</item>
+        <item>@string/op36</item>
+        <item>@string/op37</item>
+        <item>@string/op38</item>
+        <item>@string/op39</item>
+        <item>@string/op40</item>
+    </string-array>
+</resources>

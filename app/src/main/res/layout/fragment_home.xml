@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/backgroud_color"
+    tools:context="fragment.HomeFragment">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/home_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        app:title="My Space"
+        app:titleTextColor="@color/white"
+        android:background="@drawable/button"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/home_recycle_view"
+        android:layout_below="@+id/home_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</RelativeLayout>
